@@ -18,5 +18,17 @@
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+### Descrição do meu objetivo:
+- Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas
+- Gosto de estar sempre aprendendo novas coisas!
+<hr>
 
-          
+### Tempo de estudo de Py⏲️:
+- Estudo Python há alguns meses
+<hr>
+
+### Tempo de estudo de js⏲️:
+- Estudo Javascript há algumas semanas
+<hr>
+  
+    
