@@ -18,7 +18,10 @@
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-### Descrição do meu objetivo:
+ ### Descrição do meu objetivo:
+ 
+![image](https://user-images.githubusercontent.com/108553400/177017973-df3fcf3d-9ac7-46b9-adf6-7d5ab41fcde6.png)
+
 - Atualmente estou buscando oportunidades! Busco sempre estar estudando, desenvolvevendo programas
 - Gosto de estar sempre aprendendo novas coisas!
 <hr>
@@ -31,4 +34,5 @@
 - Estudo Javascript há algumas semanas
 <hr>
   
-    
+ 
+
