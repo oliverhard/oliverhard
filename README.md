@@ -1,6 +1,6 @@
 ### ola! sou oliverhard 😀
 - 🌱 estudando html e css e outros programadores Java, JavaScript, Python, Linguagem C, PHP e Ruby
-<a href="https://github.com/oliverhard"></a>
+<a href="https://github.com/oliverhard">oliverhard</a>
 
 <div align="center">
   <a href="https://github.com/oliverhard">
