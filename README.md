@@ -28,11 +28,7 @@
   
   </body>
   </div> 
-    
-  ![](https://komarev.com/ghpvc/?username=oliverhard-github-oliverhard&color=blue)
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-
+  
  ### Descrição do meu objetivo:
  
 ![image](https://user-images.githubusercontent.com/108553400/177017973-df3fcf3d-9ac7-46b9-adf6-7d5ab41fcde6.png)
